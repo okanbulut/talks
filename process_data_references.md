@@ -1,6 +1,12 @@
 # References
 
+Bulut, O., Guo, Q., & Gierl, M. J. (2017). A structural equation modeling approach for examining position effects in large-scale assessments. Large-Scale Assessments in Education, 5(8), 1-20. doi:10.1186/s40536-017-0042-x
+
+Bulut, O., Lei, M., & Guo, Q. (2018). Item and testlet position effects in computer-based alternate assessments for students with disabilities. International Journal of Research & Method in Education, 41(2), 169-183. doi: 10.1080/1743727X.2016.1262341
+
 Choe, E. M., Zhang, J., & Chang, H. H. (2018). Sequential detection of compromised items using response times in computerized adaptive testing. Psychometrika, 83(3), 650-673.
+
+Gao, Y., Cui, Y. Bulut, O., Zhai, X., & Chen, F. (2022). Examining adults' web navigation patterns in multi-layered hypertext environments. Computers in Human Behavior, 129, 107142. doi:10.1016/j.chb.2021.107142
 
 Gabadinho, A., Ritschard, G., Müller, N. S., & Studer, M. (2011). Analyzing and visualizing state sequences in R with TraMineR. Journal of statistical software, 40(4), 1-37.
 
@@ -14,13 +20,19 @@ Jenkins, C., Corritore, C. L., & Wiedenbeck, S. (2003). Patterns of information 
 
 Juvina, I., & van Oostendorp, H. (2006). Individual differences and behavioral metrics involved in modeling web navigation. Universal Access in the Information Society, 4, 258–269.
 
+Kan, A., Bulut, O., & Cormier, D. C. (2018). The impact of item stem format on the dimensional structure of mathematics assessments. Educational Assessment, 24(1), 13-32. doi: 10.1080/10627197.2018.1545569
+
 Kroehne, U., Deribo, T., & Goldhammer, F. (2020). Rapid guessing rates across administration mode and test setting. Psychological Test and Assessment Modeling, 62(2), 147-177.
+
+Liou, P.-Y., & Bulut, O. (2020). The effects of item format and cognitive domain on students’ science performance in TIMSS 2011. Research in Science Education, 50(1), 99-121. doi: 10.1007/s11165-017-9682-7
 
 Mostow, J., & Beck, J. E. (2009). Why, What, and How to Log? Lessons from LISTEN. International Working Group on Educational Data Mining.
 
 Reader, W. R., & Payne, S. J. (2007). Allocating time across multiple texts: Sampling and satisficing. Human–Computer Interaction, 22(3), 263-298.
 
 Schnipke, D. L., & Scrams, D. J. (1997). Modeling item response times with a two-state mixture model: A new method of measuring speededness. Journal of Educational Measurement, 34, 213–232.
+
+Shin, J., Bulut, O., & Gierl, M. J. (2020). The effect of the most-attractive-distractor location on multiple-choice item difficulty. Journal of Experimental Education, 88(4), 643-659. doi:10.1080/00220973.2019.1629577
 
 Sinharay, S. (2020). Detection of item preknowledge using response times. Applied Psychological Measurement, 44(5), 376-392.
 
