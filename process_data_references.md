@@ -1,4 +1,6 @@
-# References
+# References (ETS Process Data SIG - January 29, 2022)
+
+Arroyo, I., Cooper, D. G., Burleson, W., & Woolf, B. P. (2010). Bayesian networks and linear regression models of students’ goals, moods, and emotions. Handbook of educational data mining, 323-338.
 
 Bulut, O., Guo, Q., & Gierl, M. J. (2017). A structural equation modeling approach for examining position effects in large-scale assessments. Large-Scale Assessments in Education, 5(8), 1-20. doi:10.1186/s40536-017-0042-x
 
