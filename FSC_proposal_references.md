@@ -1,4 +1,4 @@
-**References**
+**References for the FSC Grant (Strengthening Canada’s Skills with PIAAC Research)**
 
 Ayres, J., & Malouff, J. M. (2007). Problem-solving training to help workers increase positive affect, job satisfaction, and life satisfaction. European Journal of Work and Organizational Psychology, 16(3), 279–294. https://doi.org/10.1080/13594320701391804  
 
@@ -21,6 +21,8 @@ Jacobs, G. E., & Castek, J. (2018). Digital problem solving: The literacies of n
 Koopmans, L., Van Den Tooren, M., & Preenen, P. (2025). Long-term effects of on-the-job skills (Mis)match on employee wellbeing and employability: A 7-wave longitudinal study. Frontiers in Psychology, 16, 1591769. https://doi.org/10.3389/fpsyg.2025.1591769
 
 Kyllonen, P. C. (2018). Inequality, education, workforce preparedness, and complex problem solving. Journal of Intelligence, 6(3), 33. https://doi.org/10.3390/jintelligence6030033
+
+Mueller, R., & Truong, K. (2022). Wage and basic skills inequality between immigrants by immigration admission categories and Canadian non-immigrants. Empirical Economics, 62(4), 1833–1884. https://doi.org/10.1007/s00181-021-02084-6
 
 Schneider, B., Goldstiein, H. W., & Smith, D. B. (1995). The ASA framework: An update. Personnel psychology, 48(4), 747-773. https://doi.org/10.1111/j.1744-6570.1995.tb01780.x 
 
